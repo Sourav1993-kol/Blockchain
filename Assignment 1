@@ -1,0 +1,14 @@
+1.What is your understanding of Blockchain?
+Ans: Blockchain is the technology the underpins digital currency. Based on peer-to-peer topology, Blockchain is distributed ledger technology that allows data to be stored globally on thousands of Sever-which letting anyone on the network see everyone else's entries in near real-time. That makes it difficult for one user to gain control of or game network. It allows digital information to be distributed, but not copied.That means each individual pieces of data can only have one owner.
+
+2. What is the core problem Blockchain trying to solve?
+Ans: Blockchain address the problem of data security and trust by making the ledger public. Hard and software error are not the only data security issues. The Blockchain has to be also protect itself from willful fraud and theft, Two blockchain design features help in this effort.
+
+3.What are the few features which blockchain will give you?
+Ans: Can not be corrupted. There are some exciting blockchain features but among them "Immutablilty" is undountedly one of the key features of Blockchain technology. Decentralized technology, Enhanced security, Distributed ledgers, Consensus, faster settlement.
+
+4. What all things does a block contains?
+Ans: Each block contains, among other things, the current time and record of some or all recent transactions and a reference to the block that came immediately before it. It also contains an answer to a difficult -to-solve mathematical puzzle the answer to which is unique to each block.
+
+5. How is the verifiability of blockchain been attained?
+Ans: Transaction are encrypted and stored on multiple devices, or nodes around the globe. This decentralization, transparency, widely-verifiable, and append-only nature makes it almost impossible to tamper with data. Therefore, access can be restricted and information can be encrypted to protect confidentiality.
